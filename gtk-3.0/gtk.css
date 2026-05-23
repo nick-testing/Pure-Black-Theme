@@ -16,7 +16,7 @@
 
 .background {
   color: rgba(255, 255, 255, 0.87);
-  background-color: rgba(56, 56, 56, 0.999); }
+  background-color: rgba(0, 0, 0, 0.999); }
 
 *:disabled {
   -gtk-icon-effect: dim; }
@@ -2899,7 +2899,7 @@ headerbar button.titlebutton,
   border-color: transparent;
   background-color: transparent;
   background-image: none;
-  background-color: rgba(43, 43, 43, 0); }
+  background-color: rgba(0, 0, 0, 0); }
   headerbar button.titlebutton:hover,
   .titlebar button.titlebutton:hover {
     color: rgba(255, 255, 255, 0.87);
